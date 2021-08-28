@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinePDV.Payments", "CinePDV.Payments\CinePDV.Payments.csproj", "{6296CE53-E26E-4E82-AE90-2FA368623625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinePDV.CafeteriaCatalog", "CinePDV.CafeteriaCatalog\CinePDV.CafeteriaCatalog.csproj", "{BCF053DF-88B7-4D8A-B204-E5F2B2148A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinePDV.Gateway", "CinePDV.Gateway\CinePDV.Gateway.csproj", "{562709F3-23B9-43CF-9148-5CE732856921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinePDV.MovieCatalog", "CinePDV.MovieCatalog\CinePDV.MovieCatalog.csproj", "{F5E4797D-5D78-4F24-9FD4-AEA9495CF305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6296CE53-E26E-4E82-AE90-2FA368623625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6296CE53-E26E-4E82-AE90-2FA368623625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6296CE53-E26E-4E82-AE90-2FA368623625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6296CE53-E26E-4E82-AE90-2FA368623625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF053DF-88B7-4D8A-B204-E5F2B2148A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF053DF-88B7-4D8A-B204-E5F2B2148A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF053DF-88B7-4D8A-B204-E5F2B2148A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF053DF-88B7-4D8A-B204-E5F2B2148A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562709F3-23B9-43CF-9148-5CE732856921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562709F3-23B9-43CF-9148-5CE732856921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562709F3-23B9-43CF-9148-5CE732856921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562709F3-23B9-43CF-9148-5CE732856921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E4797D-5D78-4F24-9FD4-AEA9495CF305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E4797D-5D78-4F24-9FD4-AEA9495CF305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E4797D-5D78-4F24-9FD4-AEA9495CF305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E4797D-5D78-4F24-9FD4-AEA9495CF305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52931618-ECF9-491A-9BFE-85830D2A2EBC}
+	EndGlobalSection
+EndGlobal
