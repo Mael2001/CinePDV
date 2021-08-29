@@ -52,7 +52,7 @@ namespace CinePDV.ShoppingBasket.Controllers
             }
 
             List<ProductDto> productList = new List<ProductDto>();
-            Parallel.ForEach(basketLineForCreation.ProductId, async (id) =>
+            Parallel.ForEach(basketLineForCreation.ProductId, (id) =>
             {
                 ProductDto productData = null;
 
